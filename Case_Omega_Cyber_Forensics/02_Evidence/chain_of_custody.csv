@@ -1,0 +1,3 @@
+Evidence_ID,Date_Time_UTC,Released_By,Received_By,Purpose,Seal_ID,Seal_Condition,Signatures
+E-001,2026-11-17T04:30:00Z,Student examiner,Student examiner,Creation and initial storage of synthetic placeholder,SEAL-001,New seal applied,Simulation only
+E-002,2026-11-17T04:35:00Z,Student examiner,Student examiner,Creation and storage of synthetic log export,SEAL-002,New seal applied,Simulation only

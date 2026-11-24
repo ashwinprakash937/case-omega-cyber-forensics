@@ -1,0 +1,7 @@
+timestamp_utc,host,event_id,account,source_ip,description
+2026-11-17T02:02:11Z,OMEGA-FS01,4624,svc_backup,10.20.4.18,Successful service account logon (synthetic)
+2026-11-17T02:07:43Z,OMEGA-FS01,4625,unknown,10.20.4.77,Failed logon attempt (synthetic)
+2026-11-17T02:11:09Z,OMEGA-FS01,4624,ops_admin,10.20.4.77,Successful privileged logon (synthetic)
+2026-11-17T02:15:31Z,OMEGA-FS01,4663,ops_admin,10.20.4.77,Unusual bulk file access (synthetic)
+2026-11-17T02:19:58Z,OMEGA-FS01,1102,ops_admin,10.20.4.77,Audit log cleared (synthetic; requires corroboration)
+2026-11-17T02:24:20Z,OMEGA-FS01,9999,unknown,10.20.4.77,Simulated ransom note created (synthetic)

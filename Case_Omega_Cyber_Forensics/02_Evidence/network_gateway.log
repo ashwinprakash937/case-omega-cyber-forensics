@@ -1,0 +1,4 @@
+# Synthetic gateway events — all addresses/domains are documentation-only examples
+2026-11-17T02:09:02Z ALLOW src=10.20.4.77 dst=198.51.100.23 proto=TCP dport=443 note=simulated outbound session
+2026-11-17T02:12:44Z ALLOW src=10.20.4.77 dst=203.0.113.45 proto=TCP dport=443 note=simulated remote management
+2026-11-17T02:22:06Z DENY src=10.20.4.77 dst=192.0.2.88 proto=TCP dport=445 note=simulated lateral movement attempt

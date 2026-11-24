@@ -1,0 +1,22 @@
+name: Repository checks
+on:
+  push:
+  pull_request:
+jobs:
+  structure-and-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f 01_Incident_Response/first_responder_SOP.md
+          test -f 02_Evidence/evidence_register.csv
+          test -f 02_Evidence/chain_of_custody.csv
+          test -f 03_Malware_Analysis/analysis_findings.md
+          test -f 04_Timeline/attack_timeline.csv
+          test -f 05_Forensic_Report/Case_Omega_Forensic_Report.pdf
+          test -f 05_Forensic_Report/Case_Omega_Forensic_Report.docx
+      - name: Check Markdown files are non-empty
+        run: |
+          find . -name '*.md' -type f -print0 | xargs -0 -r -n1 sh -c 'test -s "$0"'
