@@ -1,7 +1,10 @@
 ﻿# Chain of Custody Form (Template / Simulated Entries)
+
 **Case:** Case Omega
 **Case ID:** OMEGA-2026-001
+
 ## Evidence details
+
 - **Evidence ID:** E-001
 - **Item description:** Synthetic server image placeholder
   (32,862 bytes; approximately 32.1 KiB)
@@ -11,7 +14,9 @@
 - **Packaging / seal:** Anti-static evidence bag concept; SEAL-001
   (simulated)
 - **Condition:** Synthetic file generated for coursework
+
 ## Transfer log
+
 - **Date/time (UTC):** 17 Nov 2026, 04:30
 - **Released by:** Ashwin Prakash
 - **Received by:** Ashwin Prakash
