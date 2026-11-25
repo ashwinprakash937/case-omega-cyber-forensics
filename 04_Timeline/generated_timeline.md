@@ -5,7 +5,7 @@
 **Events recorded:** 9
 
 | Timestamp (UTC) | Evidence | Source | Event | Confidence |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | 2026-11-17T02:02:11Z | E-002 | Windows Security export | Service account successful logon | Medium |
 | 2026-11-17T02:07:43Z | E-002 | Windows Security export | Failed logon from 10.20.4.77 | Medium |
 | 2026-11-17T02:09:02Z | E-003 | Gateway log | Outbound TLS session to documentation IP | Low |

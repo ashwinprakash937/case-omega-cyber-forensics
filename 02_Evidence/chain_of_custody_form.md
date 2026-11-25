@@ -3,7 +3,7 @@
 **Case:** Case Omega | **Case ID:** OMEGA-2026-001
 
 | Field | Entry |
-|---|---|
+| --- | --- |
 | Evidence ID | E-001 |
 | Item description | Synthetic server image placeholder (32,862 bytes; approximately 32.1 KiB) |
 | Source / location | Training scenario; no real server |
@@ -13,6 +13,7 @@
 | Condition | Synthetic file generated for coursework |
 
 ## Transfer log
+
 | Date/time (UTC) | Released by | Received by | Purpose | Seal condition | Signatures |
 |---|---|---|---|---|---|
 | 17 Nov 2026 04:30 | Ashwin Prakash | Ashwin Prakash | Initial storage | New seal | Simulation only |

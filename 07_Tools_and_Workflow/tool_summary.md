@@ -1,7 +1,7 @@
 # Tool Summary and Workflow
 
 | Tool | Purpose in a real investigation | Use in this package |
-|---|---|---|
+| --- | --- | --- |
 | FTK Imager | Acquire and verify forensic disk images | Described only; no physical image acquired |
 | `dd` | Bit-stream acquisition on Unix-like systems | Described only |
 | SHA-256 (`sha256sum`, `Get-FileHash`) | Integrity comparison | Used to hash synthetic placeholder |
@@ -10,6 +10,7 @@
 | GitHub Actions | Validate repository layout and Markdown hygiene | Workflow included |
 
 ## Workflow
+
 1. Establish authority, patient-safety priorities and incident scope.
 2. Document scene and system state.
 3. Identify, label, preserve and acquire evidence.

@@ -1,13 +1,18 @@
 ﻿# First Responder SOP — Case Omega
+
 **Scenario time:** 17 November 2026 (fictional exercise)  
 **Location:** Omega General Hospital, fictional server room  
 **Incident:** Suspected ransomware affecting clinical file services
+
 ## 1. Purpose and authority
+
 Preserve people's safety, protect patient care, prevent avoidable evidence
 alteration, and establish a defensible record. The incident commander
 authorises containment actions. Follow the organisation's incident-response
 plan and applicable law.
+
 ## 2. Step-by-step procedure
+
 1. **Safety first:** Check electrical, fire, environmental and physical
    safety. Do not enter an unsafe server room.
 2. **Establish control:** Notify the incident commander, hospital
@@ -47,7 +52,9 @@ plan and applicable law.
 12. **Handover and reporting:** Brief the incident commander and authorised
     investigators. Record outstanding actions, risks, limitations and
     every departure from this SOP.
+
 ## 3. Do not
+
 - Do not pay a ransom or communicate with an actor without authorised
   leadership/legal direction.
 - Do not delete suspicious files, run cleanup tools, reboot, or restore
@@ -56,7 +63,9 @@ plan and applicable law.
 - Do not claim a hash proves the contents are authentic; it supports
   integrity comparison of the same data.
 - Do not access patient data unless authorised and necessary.
+
 ## 4. Documentation checklist
+
 - [ ] Incident ID and authority recorded
 - [ ] Scene and device photographs/sketch captured
 - [ ] Device state, clock and network connections recorded
