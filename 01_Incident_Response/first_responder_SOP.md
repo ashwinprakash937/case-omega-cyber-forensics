@@ -3,7 +3,7 @@
 **Location:** Omega General Hospital, fictional server room  
 **Incident:** Suspected ransomware affecting clinical file services
 ## 1. Purpose and authority
-Preserve people’s safety, protect patient care, prevent avoidable evidence
+Preserve people's safety, protect patient care, prevent avoidable evidence
 alteration, and establish a defensible record. The incident commander
 authorises containment actions. Follow the organisation's incident-response
 plan and applicable law.
