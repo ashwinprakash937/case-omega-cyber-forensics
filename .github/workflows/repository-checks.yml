@@ -20,3 +20,7 @@ jobs:
       - name: Check Markdown files are non-empty
         run: |
           find . -name '*.md' -type f -print0 | xargs -0 -r -n1 sh -c 'test -s "$0"'
+      - name: Lint Markdown formatting
+        uses: DavidAnson/markdownlint-cli2-action@v25
+        with:
+          globs: '**/*.md'
