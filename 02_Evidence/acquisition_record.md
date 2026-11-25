@@ -1,5 +1,7 @@
 ﻿# Evidence Acquisition and Hash Validation
+
 ## Acquisition record
+
 - **Evidence ID:** E-001
 - **Item:** `simulated_server_image.bin`
 - **Source:** Synthetic training artefact generated for this assignment
@@ -9,7 +11,9 @@
 - **Examiner:** Ashwin Prakash
 - **Limitation:** This is not a forensic disk image and must not be
   represented as one.
+
 ## Hash validation
+
 - **Algorithm:** SHA-256
 - **Digest:**
   `8d4ae2d9bef2ade722b88d7116610eb797eccb3ad0d0880defd1988a84287b07`
